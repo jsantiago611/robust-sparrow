@@ -34,7 +34,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'CircularStd-Book\ \(1\).otf', system-ui, sans-serif;
+  font-family: 'CircularBody', system-ui, sans-serif;
   color: var(--darkgray);
   background-color: var(--white);
 }
