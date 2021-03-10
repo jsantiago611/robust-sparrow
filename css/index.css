@@ -134,7 +134,7 @@ pre {
   padding: 0 1rem;
   float: left;
   margin: 1rem 0; /* 16px /16 */
-  font-size: 1.2em; /* 16px /16 */
+  font-size: 1.3em; /* 16px /16 */
   letter-spacing: -.02em;
 }
 .home :link:not(:hover) {
