@@ -242,5 +242,5 @@ a[href].direct-link:focus:visited,
 }
 
 .more-posts {
-    text-transform: ;
+    text-transform: capitalize;
 }
