@@ -25,7 +25,7 @@
     font-family: 'CircularBody';
     font-style: normal;
     font-display: swap;
-    font-weight: 500;
+    font-weight: 400;
     src: url('CircularStd-Bold.ttf') format('opentype'),
         url('CircularStd-Bold.ttf') format('opentype');
 }
