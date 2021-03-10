@@ -241,3 +241,6 @@ a[href].direct-link:focus:visited,
   color: #aaa;
 }
 
+.more-posts {
+    text-transform: capitalize;
+}
