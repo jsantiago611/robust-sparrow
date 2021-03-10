@@ -17,8 +17,8 @@
     font-style: normal;
     font-display: swap;
     font-weight: 500;
-    src: url('CircularStd-Black_1.ttf') format('opentype'),
-        url('CircularStd-Black_1.ttf') format('opentype');
+    src: url('../fonts/CircularStd-Black_1.ttf') format('opentype'),
+        url('../fonts/CircularStd-Black_1.ttf') format('opentype');
 }
 
 html,
