@@ -26,7 +26,7 @@
     font-style: normal;
     font-display: swap;
     font-weight: 400;
-    src: url('CircularStd-Bold.ttf') format('opentype'),
+    src: url('CircularStd-Book.ttf') format('opentype'),
         url('CircularStd-Bold.ttf') format('opentype');
 }
 
