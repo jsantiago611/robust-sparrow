@@ -135,7 +135,7 @@ pre {
   float: left;
   margin: 1rem 0; /* 16px /16 */
   font-size: 1.3em; /* 16px /16 */
-  letter-spacing: -.02em;
+  letter-spacing: -.03em;
 }
 .home :link:not(:hover) {
   text-decoration: none;
