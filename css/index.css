@@ -29,6 +29,8 @@ body {
   color: var(--darkgray);
   background-color: var(--white);
 }
+
+h1 
 p:last-child {
   margin-bottom: 0;
 }
