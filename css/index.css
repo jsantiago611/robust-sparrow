@@ -21,6 +21,15 @@
         url('CircularStd-Bold.ttf') format('opentype');
 }
 
+@font-face {
+    font-family: 'Circular';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 500;
+    src: url('CircularStd-Bold.ttf') format('opentype'),
+        url('CircularStd-Bold.ttf') format('opentype');
+}
+
 html,
 body {
   padding: 0;
