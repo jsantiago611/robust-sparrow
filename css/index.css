@@ -12,6 +12,14 @@
   box-sizing: border-box;
 }
 
+@font-face {
+    font-family: 'Circular';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 500;
+    src: url('/assets/fonts/CircularStd-Black_1.ttf') format('opentype'),
+        url('/assets/fonts/CircularStd-Black_1.ttf') format('opentype');
+}
 
 html,
 body {
