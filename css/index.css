@@ -202,7 +202,7 @@ pre {
 .tmpl-home .postlist-link {
   font-size: 2rem; /* 19px /16 */
   font-weight: 500;
-  font-family: "CircularBody";
+  font-family;: "CircularBody";
   letter-spacing: -0.02em;
 }
 
